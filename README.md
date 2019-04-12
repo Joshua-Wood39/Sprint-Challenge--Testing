@@ -30,16 +30,16 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 ## Project Set Up
 
-- [ ] fork and clone this repository.
-- [ ] **CD into the folder** where you downloaded the repository.
-- [ ] run `yarn` or `npm i` to download all dependencies.
-- [ ] type `yarn test` or `npm test` to run the tests. The `test` script is already configured.
+- [*] fork and clone this repository.
+- [*] **CD into the folder** where you downloaded the repository.
+- [*] run `yarn` or `npm i` to download all dependencies.
+- [*] type `yarn test` or `npm test` to run the tests. The `test` script is already configured.
 
 ## Minimum Viable Product
 
 Your finished project must include all of the following requirements:
 
-- [ ] use `jest` and `supertest` to write the tests.
+- [] use `jest` and `supertest` to write the tests.
 - [ ] Write the **tests BEFORE** writing the route handlers.
 - [ ] Your API must be have `POST` and `GET` endpoints for `/games`.
 - [ ] Write a **minimum** of three tests per endpoint.
